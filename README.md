@@ -156,6 +156,7 @@ O gráfico compara os **salários reais** com os **salários previstos pelo mode
 
 * A maioria dos dados está concentrada entre **US$50k e US$250k**, indicando maior quantidade de exemplos nessa faixa.
 * Existe uma **tendência positiva**, onde salários reais maiores resultam em previsões maiores.
+* Para um mesmo valor de salário real, o modelo pode produzir previsões relativamente diferentes.
 * Observa-se **dispersão significativa**, indicando erros relevantes nas previsões.
 * Para salários muito altos (acima de ~US$400k), o modelo tende a **subestimar os valores reais**, provavelmente devido à menor quantidade de exemplos nessa faixa salarial.
 
